@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "DOGFIGHT",
+  "base_artist": "move",
+  "createdAt": "2026-02-24T07:39:18.522925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dogfight Giggle",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/01_Dogfight_Giggle_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Black Skinhead Coconut Dogfight",
+      "artist": "Skunk Anansie",
+      "has_synced": false,
+      "path": "select/02_Black_Skinhead_Coconut_Dogfight_Skunk_Anansie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dogfight",
+      "artist": "Evergreen Terrace",
+      "has_synced": true,
+      "path": "select/03_Dogfight_Evergreen_Terrace.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DOGFIGHT",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/04_DOGFIGHT_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DOGFIGHT",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/05_DOGFIGHT_move.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dogfight - Radio Edit",
+      "artist": "DJ Mad Dog",
+      "has_synced": false,
+      "path": "select/06_Dogfight_-_Radio_Edit_DJ_Mad_Dog.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fear the Dogfight (Radio Edit)",
+      "artist": "Anime",
+      "has_synced": false,
+      "path": "select/07_Fear_the_Dogfight_(Radio_Edit)_Anime.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dogfight",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/08_Dogfight_m.o.v.e.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOGFIGHT",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_01_DOGFIGHT_m.o.v.e.txt"
+    }
+  ]
+}
